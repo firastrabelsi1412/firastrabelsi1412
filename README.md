@@ -36,7 +36,7 @@ A full security audit of a deliberately vulnerable Flutter crypto-wallet app. I 
 **Tools:** Linux, Git, MobSF, Burp Suite, Android Studio
 
 ## 🌍 Languages
-Arabic (native) · French · English
+Arabic (native) · French · English . Japanese
 
 ---
 
