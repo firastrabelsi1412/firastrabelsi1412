@@ -25,11 +25,6 @@ A full security audit of a deliberately vulnerable Flutter crypto-wallet app. I 
 
 `Flutter` `Android` `MobSF` `Burp Suite` `ADB` `Node.js / Express` `JWT`
 
-### [IoT Room Monitoring](https://github.com/firastrabelsi1412/iot-room-monitoring)
-A room-monitoring system that sends sensor data from an **ESP32** over **MQTT** to a **PyQt6** desktop dashboard.
-
-`ESP32` `MQTT` `Python` `PyQt6`
-
 ---
 
 ## 🛠️ Skills
