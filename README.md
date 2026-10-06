@@ -21,7 +21,7 @@ An adaptive firewall that combines a **hybrid LSTM-CNN traffic classifier** with
 ### [CryptoVault: Mobile Security Audit](https://github.com/firastrabelsi1412/cryptovault-mobile-audit)
 A full security audit of a deliberately vulnerable Flutter crypto-wallet app. I found **10 vulnerabilities (16 sub-findings)**, mapped them to OWASP, then fixed them by rewriting the backend with Express, RS256 JWT and HTTPS.
 - The MobSF security score rose from **24/100 to 61/100**.
-- The repo includes the audit report, evidence, and the fix code for each vulnerability.
+- The repo includes the audit report, proof-of-concept evidence, and the hardened client and backend code.
 
 `Flutter` `Android` `MobSF` `Burp Suite` `ADB` `Node.js / Express` `JWT`
 
